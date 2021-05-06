@@ -1,4 +1,10 @@
+.container{
+display: flex;
+flex-direction: column;
+}
+
 .App {
+  justify-content: space-evenly;
   text-align: center;
 }
 
